@@ -1,4 +1,4 @@
-Task2
+#Task2
 In scope of this task I've installed Docker and pulled Sergey's container loccaly which I used then as http server.
 Also I learned a bit about shell scripts and created first one.
 My atached script sends POST request via curl to /auth endpoint then extracts access_token from the response body into variable and
