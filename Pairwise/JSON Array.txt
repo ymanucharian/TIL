@@ -1,0 +1,162 @@
+[
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Firefox",
+    "Programming Language": "C#",
+    "Unit Framework": "Mocha",
+    "Web Frameworks": "WebdriverIO",
+    "Mobile Frameworks": "N/A",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Safari",
+    "Programming Language": "Python",
+    "Unit Framework": "Jest",
+    "Web Frameworks": "Helium",
+    "Mobile Frameworks": "N/A",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Chrome",
+    "Programming Language": "JS",
+    "Unit Framework": "Unittest",
+    "Web Frameworks": "CodeceptJS",
+    "Mobile Frameworks": "N/A",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Chrome",
+    "Programming Language": "Java",
+    "Unit Framework": "Jasmine",
+    "Web Frameworks": "Serenity",
+    "Mobile Frameworks": "N/A",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "Application Type": "Mobile Native",
+    "Mobile Platform": "Android",
+    "Browser": "N/A",
+    "Programming Language": "Java",
+    "Unit Framework": "JUnit",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "Xamarin",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "iOS",
+    "Browser": "Safari",
+    "Programming Language": "JS",
+    "Unit Framework": "N/A",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "Xamarin",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "Application Type": "Mobile Native",
+    "Mobile Platform": "iOS",
+    "Browser": "N/A",
+    "Programming Language": "Swift",
+    "Unit Framework": "JUnit",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "Detox",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Safari",
+    "Programming Language": "Java",
+    "Unit Framework": "TestNG",
+    "Web Frameworks": "Playwrite",
+    "Mobile Frameworks": "N/A",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Mobile Native",
+    "Mobile Platform": "Android",
+    "Browser": "N/A",
+    "Programming Language": "Swift",
+    "Unit Framework": "JUnit",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "Android",
+    "Browser": "Firefox",
+    "Programming Language": "JS",
+    "Unit Framework": "N/A",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Firefox",
+    "Programming Language": "Java",
+    "Unit Framework": "JUnit",
+    "Web Frameworks": "Puppeteer",
+    "Mobile Frameworks": "N/A",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Safari",
+    "Programming Language": "C#",
+    "Unit Framework": "Nose2",
+    "Web Frameworks": "Selenide",
+    "Mobile Frameworks": "N/A",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "Application Type": "Mobile Native",
+    "Mobile Platform": "iOS",
+    "Browser": "N/A",
+    "Programming Language": "Java",
+    "Unit Framework": "JUnit",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "XCUITest",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Safari",
+    "Programming Language": "JS",
+    "Unit Framework": "PyTest",
+    "Web Frameworks": "Cypress",
+    "Mobile Frameworks": "N/A",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "iOS",
+    "Browser": "Chrome",
+    "Programming Language": "JS",
+    "Unit Framework": "N/A",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "Application Type": "Mobile Native",
+    "Mobile Platform": "iOS",
+    "Browser": "N/A",
+    "Programming Language": "Swift",
+    "Unit Framework": "JUnit",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "Espresso",
+    "Infrastructure": "Selenoid"
+  }
+]
