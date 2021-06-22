@@ -1,0 +1,52 @@
+Application Type: Web, Mobile Native, Hybrid, N/A
+Mobile Platform: iOS, Android, N/A
+Browser: Chrome, Firefox, Safari, N/A
+Programming Language: Java, JS, Python, Swift, C#, N/A
+Unit Frameworks: TestNG, JUnit, Mocha, Jest, Jasmine, PyTest, Unittest, Nose2, N/A
+Web Frameworks: Selenide, Serenity, WebdriverIO, Cypress, CodeceptJS, Puppeteer, Playwright, Helium, N/A
+Mobile Frameworks: Appium, Espresso, XCUITest, Detox, Xamarin, N/A
+Infrastructure: Selenium Grid, Selenoid, N/A
+
+IF [Unit Frameworks] = "TestNG" then [Application Type] = "Web" and [Mobile Platform] = "N/A" and [Browser] in {"Chrome", "Firefox", "Safari"} and [Programming Language] = "Java" and [Infrastructure] = "Selenium Grid";
+
+IF [Unit Frameworks] = "JUnit" then [Application Type] in {"Web", "Mobile Native", "Hybrid"} and [Mobile Platform] in {"iOS", "Android"} and [Browser] in {"Chrome", "Firefox", "Safari"} and [Programming Language] = "Java" and [Infrastructure] = "Selenium Grid";
+
+IF [Unit Frameworks] = "Mocha" then [Application Type] = "Web" and [Mobile Platform] = "N/A" and [Browser] in {"Chrome", "Firefox", "Safari"} and [Programming Language] = "JS" and [Infrastructure] = "Selenium Grid";
+
+IF [Unit Frameworks] = "Jasmine" then [Application Type] = "Web" and [Mobile Platform] = "N/A" and [Browser] in {"Chrome", "Firefox", "Safari"} and [Programming Language] = "JS" and [Infrastructure] = "Selenium Grid";
+
+IF [Unit Frameworks] = "PyTest" then [Application Type] in  {"Web", "Mobile Native", "Hybrud"} and [Mobile Platform] in {"iOS", "Android"} and [Browser] in {"Chrome", "Firefox", "Safari"} and [Programming Language] = "Python" and [Infrastructure] in {"Selenium Grid", "Selenoid"};
+
+IF [Unit Frameworks] = "Unittest" then [Application Type] = "Web" and [Mobile Platform] = "N/A" and [Browser] in {"Chrome", "Firefox", "Safari"} and [Programming Language] = "Python" and [Infrastructure] = "Selenium Grid";
+
+IF [Unit Frameworks] = "Nose2" then [Application Type] = "Web" and [Mobile Platform] = "N/A" and [Browser] in {"Chrome", "Firefox", "Safari"} and [Programming Language] = "Python" and [Infrastructure] = "Selenium Grid";
+
+IF [Web Frameworks] = "Selenide" then [Application Type] in {"Web", "Mobile Native", "Hybrid"} and [Mobile Platform] in {"iOS", "Android"} and [Browser] in {"Chrome", "Firefox", "Safari"} and [Programming Language] = "Java" and [Infrastructure] = "Selenium Grid";
+
+IF [Web Frameworks] = "Serenity" then [Application Type] in {"Web", "Mobile Native", "Hybrid"} and [Mobile Platform] in {"iOS", "Android"} and [Browser] in {"Chrome", "Firefox", "Safari"} and [Programming Language] in {"Java", "Js"} and [Infrastructure] = "Selenium Grid";
+
+IF [Web Frameworks] = "WebdriverIO" then [Application Type] in {"Web", "Mobile Native", "Hybrid"} and [Mobile Platform] in {"iOS", "Android"} and [Browser] in {"Chrome", "Firefox", "Safari"} and [Programming Language] = "Js" and [Infrastructure] in {"Selenium Grid", "Selenoid"};
+
+IF [Web Frameworks] = "Cypress" then [Application Type] = "Web" and [Mobile Platform] = "N/A" and [Browser] in {"Chrome", "Firefox"} and [Programming Language] in {"Java", 
+ "Js", "Python", "C#"} and [Infrastructure] = "N/A";
+
+IF [Web Frameworks] = "CodeceptJS" then [Application Type] in  {"Web", "Mobile Native", "Hybrid"} and [Mobile Platform] in  {"iOS", "Android"} and [Browser] in {"Chrome", "Firefox", "Safari"} and [Programming Language] in {"Java", 
+ "Js", "Python"} and [Infrastructure] = "Selenium Grid";
+
+IF [Web Frameworks] = "Puppeteer" then [Application Type] = "Web" and [Mobile Platform] = "N/A" and [Browser] in {"Chrome", "Firefox"} and [Programming Language] in {"Java", 
+"Js", "Python"} and [Infrastructure] = "Selenoid";
+
+IF [Web Frameworks] = "Playwright" then [Application Type] = "Web" and [Mobile Platform] = "N/A" and [Browser] in {"Chrome", "Firefox", "Safari"} and [Programming Language] in {"Java", "Python"} and [Infrastructure] = "N/A";
+
+IF [Web Frameworks] = "Helium" then [Application Type] = "Web" and [Mobile Platform] = "N/A" and [Browser] in {"Chrome", "Firefox"} and [Programming Language] in {"Java", "Python"} and [Infrastructure] = "Selenoid";
+
+IF [Mobile Frameworks] = "Appium" then [Application Type] in { "Web", "Mobile Native", "Hybrid"} and [Mobile Platform] in {"iOS", "Android"} and [Browser] in {"Chrome", "Firefox", "Safari"} and [Programming Language] in {"Java", "JS", "Python", "C#"} and [Infrastructure] = "Selenium Grid";
+
+IF [Mobile Frameworks] = "Espresso" then [Application Type] = "Mobile Native" and [Mobile Platform] = "Android" and [Browser] = "N/A" and [Programming Language] = "Java" and [Infrastructure] = "N/A";
+
+IF [Mobile Frameworks] = "XCUITest" then [Application Type] = "Mobile Native" and [Mobile Platform] = "iOS" and [Browser] = "Safari" and [Programming Language] = "Swift" and [Infrastructure] = "Selenium Grid";
+
+IF [Mobile Frameworks] = "Detox" then [Application Type] in  {"Mobile Native", "Hybrid"} and [Mobile Platform] in {"iOS", "Android"} and [Browser] = "N/A"  and [Programming Language] = "JS" and [Infrastructure] = "N/A";
+
+IF [Mobile Frameworks] = "Xamarin" then [Application Type] in  {"Mobile Native", "Hybrid"} and [Mobile Platform] in {"iOS", "Android"} and [Browser] = "N/A" and [Programming Language] = "C#";
+
