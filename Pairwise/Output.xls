@@ -1,0 +1,59 @@
+Application Type	Mobile Platform	Browser	Programming Language	Unit Frameworks	Web Frameworks	Mobile Frameworks	Infrastructure
+Web	N/A	Chrome	JS	Jest	Cypress	Detox	N/A
+Web	N/A	Firefox	C#	N/A	Cypress	N/A	N/A
+Hybrid	Android	Safari	JS	Jasmine	Puppeteer	Appium	Selenium Grid
+Hybrid	iOS	Chrome	Python	Unittest	Playwright	Appium	Selenium Grid
+Mobile Native	iOS	Firefox	JS	Jest	WebdriverIO	Detox	Selenoid
+Web	N/A	Firefox	Python	Unittest	CodeceptJS	Appium	Selenium Grid
+Web	N/A	Safari	Java	TestNG	Playwright	Espresso	Selenium Grid
+Hybrid	iOS	Safari	Python	Nose2	Puppeteer	Appium	Selenium Grid
+Hybrid	Android	Firefox	Python	Nose2	Helium	Appium	Selenium Grid
+Mobile Native	Android	Chrome	Java	JUnit	CodeceptJS	Espresso	Selenium Grid
+Web	N/A	Safari	Python	PyTest	Helium	Appium	Selenium Grid
+Hybrid	Android	Safari	JS	Jest	Serenity	Detox	Selenium Grid
+Web	N/A	Firefox	Java	TestNG	Puppeteer	Espresso	Selenium Grid
+Web	N/A	Chrome	Java	TestNG	Serenity	Appium	Selenium Grid
+Hybrid	Android	Safari	Python	Unittest	Helium	Appium	Selenium Grid
+Hybrid	iOS	Safari	JS	Jest	CodeceptJS	Detox	Selenium Grid
+N/A	Android	N/A	C#	N/A	N/A	Xamarin	Selenoid
+Hybrid	N/A	Chrome	Python	Nose2	Playwright	Appium	Selenium Grid
+Web	N/A	Safari	Java	TestNG	CodeceptJS	Espresso	Selenium Grid
+Hybrid	iOS	N/A	Java	JUnit	Helium	Espresso	Selenium Grid
+Web	N/A	Chrome	Java	TestNG	Helium	Appium	Selenium Grid
+Web	N/A	Safari	Java	JUnit	Puppeteer	Appium	Selenium Grid
+Mobile Native	iOS	Firefox	JS	Jasmine	Serenity	Detox	Selenium Grid
+Web	N/A	Chrome	JS	Jasmine	Cypress	Detox	N/A
+Hybrid	iOS	Chrome	Python	PyTest	CodeceptJS	Appium	Selenium Grid
+Hybrid	iOS	Chrome	Python	Unittest	Puppeteer	Appium	Selenium Grid
+Mobile Native	iOS	Firefox	Java	JUnit	Serenity	Espresso	Selenium Grid
+N/A	iOS	N/A	JS	Jest	Puppeteer	Detox	N/A
+Hybrid	Android	Firefox	Java	JUnit	Playwright	Appium	Selenium Grid
+Web	N/A	Safari	Java	TestNG	Selenide	Appium	Selenium Grid
+Web	N/A	Safari	C#	N/A	N/A	Xamarin	Selenium Grid
+Web	N/A	Safari	JS	Mocha	CodeceptJS	Appium	Selenium Grid
+Web	N/A	Safari	JS	Jasmine	CodeceptJS	Appium	Selenium Grid
+Web	N/A	Chrome	JS	Jasmine	WebdriverIO	Detox	Selenoid
+Hybrid	iOS	Chrome	C#	N/A	N/A	N/A	N/A
+Mobile Native	iOS	Chrome	Java	JUnit	Selenide	Espresso	Selenium Grid
+Hybrid	Android	Firefox	Python	PyTest	Playwright	Appium	Selenium Grid
+Mobile Native	Android	N/A	JS	Jasmine	Puppeteer	Detox	N/A
+Web	N/A	Safari	JS	Mocha	WebdriverIO	Appium	Selenium Grid
+Mobile Native	iOS	N/A	Java	JUnit	Playwright	Espresso	Selenium Grid
+N/A	Android	Safari	C#	N/A	N/A	N/A	Selenium Grid
+Mobile Native	iOS	Safari	C#	N/A	N/A	N/A	Selenoid
+Web	N/A	Firefox	C#	N/A	N/A	Appium	Selenium Grid
+Hybrid	N/A	Chrome	Python	PyTest	Puppeteer	Appium	Selenium Grid
+Web	N/A	Chrome	C#	N/A	Cypress	Xamarin	N/A
+Hybrid	iOS	Firefox	C#	N/A	N/A	Xamarin	Selenoid
+Web	N/A	Firefox	JS	Mocha	Puppeteer	Detox	Selenium Grid
+Mobile Native	Android	N/A	Java	JUnit	Helium	Espresso	Selenium Grid
+N/A	N/A	Chrome	JS	Jasmine	Puppeteer	Detox	Selenium Grid
+Hybrid	Android	Firefox	JS	Jest	WebdriverIO	Appium	Selenium Grid
+Web	N/A	Firefox	Python	Nose2	CodeceptJS	Appium	Selenium Grid
+Mobile Native	iOS	N/A	C#	N/A	N/A	Xamarin	Selenium Grid
+Mobile Native	iOS	Safari	Swift	N/A	N/A	XCUITest	Selenium Grid
+Hybrid	Android	Firefox	Java	JUnit	Selenide	Espresso	Selenium Grid
+N/A	iOS	Firefox	JS	Jest	Puppeteer	Detox	Selenoid
+Web	N/A	Chrome	JS	Mocha	Serenity	Appium	Selenium Grid
+Hybrid	Android	Safari	C#	N/A	N/A	Xamarin	N/A
+Hybrid	N/A	N/A	C#	N/A	N/A	N/A	Selenoid

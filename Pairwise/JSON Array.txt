@@ -1,0 +1,582 @@
+[
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Chrome",
+    "Programming Language": "JS",
+    "Unit Frameworks": "Jest",
+    "Web Frameworks": "Cypress",
+    "Mobile Frameworks": "Detox",
+    "Infrastructure": "N/A"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Firefox",
+    "Programming Language": "C#",
+    "Unit Frameworks": "N/A",
+    "Web Frameworks": "Cypress",
+    "Mobile Frameworks": "N/A",
+    "Infrastructure": "N/A"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "Android",
+    "Browser": "Safari",
+    "Programming Language": "JS",
+    "Unit Frameworks": "Jasmine",
+    "Web Frameworks": "Puppeteer",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "iOS",
+    "Browser": "Chrome",
+    "Programming Language": "Python",
+    "Unit Frameworks": "Unittest",
+    "Web Frameworks": "Playwright",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Mobile Native",
+    "Mobile Platform": "iOS",
+    "Browser": "Firefox",
+    "Programming Language": "JS",
+    "Unit Frameworks": "Jest",
+    "Web Frameworks": "WebdriverIO",
+    "Mobile Frameworks": "Detox",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Firefox",
+    "Programming Language": "Python",
+    "Unit Frameworks": "Unittest",
+    "Web Frameworks": "CodeceptJS",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Safari",
+    "Programming Language": "Java",
+    "Unit Frameworks": "TestNG",
+    "Web Frameworks": "Playwright",
+    "Mobile Frameworks": "Espresso",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "iOS",
+    "Browser": "Safari",
+    "Programming Language": "Python",
+    "Unit Frameworks": "Nose2",
+    "Web Frameworks": "Puppeteer",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "Android",
+    "Browser": "Firefox",
+    "Programming Language": "Python",
+    "Unit Frameworks": "Nose2",
+    "Web Frameworks": "Helium",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Mobile Native",
+    "Mobile Platform": "Android",
+    "Browser": "Chrome",
+    "Programming Language": "Java",
+    "Unit Frameworks": "JUnit",
+    "Web Frameworks": "CodeceptJS",
+    "Mobile Frameworks": "Espresso",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Safari",
+    "Programming Language": "Python",
+    "Unit Frameworks": "PyTest",
+    "Web Frameworks": "Helium",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "Android",
+    "Browser": "Safari",
+    "Programming Language": "JS",
+    "Unit Frameworks": "Jest",
+    "Web Frameworks": "Serenity",
+    "Mobile Frameworks": "Detox",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Firefox",
+    "Programming Language": "Java",
+    "Unit Frameworks": "TestNG",
+    "Web Frameworks": "Puppeteer",
+    "Mobile Frameworks": "Espresso",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Chrome",
+    "Programming Language": "Java",
+    "Unit Frameworks": "TestNG",
+    "Web Frameworks": "Serenity",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "Android",
+    "Browser": "Safari",
+    "Programming Language": "Python",
+    "Unit Frameworks": "Unittest",
+    "Web Frameworks": "Helium",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "iOS",
+    "Browser": "Safari",
+    "Programming Language": "JS",
+    "Unit Frameworks": "Jest",
+    "Web Frameworks": "CodeceptJS",
+    "Mobile Frameworks": "Detox",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "N/A",
+    "Mobile Platform": "Android",
+    "Browser": "N/A",
+    "Programming Language": "C#",
+    "Unit Frameworks": "N/A",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "Xamarin",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "N/A",
+    "Browser": "Chrome",
+    "Programming Language": "Python",
+    "Unit Frameworks": "Nose2",
+    "Web Frameworks": "Playwright",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Safari",
+    "Programming Language": "Java",
+    "Unit Frameworks": "TestNG",
+    "Web Frameworks": "CodeceptJS",
+    "Mobile Frameworks": "Espresso",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "iOS",
+    "Browser": "N/A",
+    "Programming Language": "Java",
+    "Unit Frameworks": "JUnit",
+    "Web Frameworks": "Helium",
+    "Mobile Frameworks": "Espresso",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Chrome",
+    "Programming Language": "Java",
+    "Unit Frameworks": "TestNG",
+    "Web Frameworks": "Helium",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Safari",
+    "Programming Language": "Java",
+    "Unit Frameworks": "JUnit",
+    "Web Frameworks": "Puppeteer",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Mobile Native",
+    "Mobile Platform": "iOS",
+    "Browser": "Firefox",
+    "Programming Language": "JS",
+    "Unit Frameworks": "Jasmine",
+    "Web Frameworks": "Serenity",
+    "Mobile Frameworks": "Detox",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Chrome",
+    "Programming Language": "JS",
+    "Unit Frameworks": "Jasmine",
+    "Web Frameworks": "Cypress",
+    "Mobile Frameworks": "Detox",
+    "Infrastructure": "N/A"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "iOS",
+    "Browser": "Chrome",
+    "Programming Language": "Python",
+    "Unit Frameworks": "PyTest",
+    "Web Frameworks": "CodeceptJS",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "iOS",
+    "Browser": "Chrome",
+    "Programming Language": "Python",
+    "Unit Frameworks": "Unittest",
+    "Web Frameworks": "Puppeteer",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Mobile Native",
+    "Mobile Platform": "iOS",
+    "Browser": "Firefox",
+    "Programming Language": "Java",
+    "Unit Frameworks": "JUnit",
+    "Web Frameworks": "Serenity",
+    "Mobile Frameworks": "Espresso",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "N/A",
+    "Mobile Platform": "iOS",
+    "Browser": "N/A",
+    "Programming Language": "JS",
+    "Unit Frameworks": "Jest",
+    "Web Frameworks": "Puppeteer",
+    "Mobile Frameworks": "Detox",
+    "Infrastructure": "N/A"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "Android",
+    "Browser": "Firefox",
+    "Programming Language": "Java",
+    "Unit Frameworks": "JUnit",
+    "Web Frameworks": "Playwright",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Safari",
+    "Programming Language": "Java",
+    "Unit Frameworks": "TestNG",
+    "Web Frameworks": "Selenide",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Safari",
+    "Programming Language": "C#",
+    "Unit Frameworks": "N/A",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "Xamarin",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Safari",
+    "Programming Language": "JS",
+    "Unit Frameworks": "Mocha",
+    "Web Frameworks": "CodeceptJS",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Safari",
+    "Programming Language": "JS",
+    "Unit Frameworks": "Jasmine",
+    "Web Frameworks": "CodeceptJS",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Chrome",
+    "Programming Language": "JS",
+    "Unit Frameworks": "Jasmine",
+    "Web Frameworks": "WebdriverIO",
+    "Mobile Frameworks": "Detox",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "iOS",
+    "Browser": "Chrome",
+    "Programming Language": "C#",
+    "Unit Frameworks": "N/A",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "N/A",
+    "Infrastructure": "N/A"
+  },
+  {
+    "Application Type": "Mobile Native",
+    "Mobile Platform": "iOS",
+    "Browser": "Chrome",
+    "Programming Language": "Java",
+    "Unit Frameworks": "JUnit",
+    "Web Frameworks": "Selenide",
+    "Mobile Frameworks": "Espresso",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "Android",
+    "Browser": "Firefox",
+    "Programming Language": "Python",
+    "Unit Frameworks": "PyTest",
+    "Web Frameworks": "Playwright",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Mobile Native",
+    "Mobile Platform": "Android",
+    "Browser": "N/A",
+    "Programming Language": "JS",
+    "Unit Frameworks": "Jasmine",
+    "Web Frameworks": "Puppeteer",
+    "Mobile Frameworks": "Detox",
+    "Infrastructure": "N/A"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Safari",
+    "Programming Language": "JS",
+    "Unit Frameworks": "Mocha",
+    "Web Frameworks": "WebdriverIO",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Mobile Native",
+    "Mobile Platform": "iOS",
+    "Browser": "N/A",
+    "Programming Language": "Java",
+    "Unit Frameworks": "JUnit",
+    "Web Frameworks": "Playwright",
+    "Mobile Frameworks": "Espresso",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "N/A",
+    "Mobile Platform": "Android",
+    "Browser": "Safari",
+    "Programming Language": "C#",
+    "Unit Frameworks": "N/A",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "N/A",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Mobile Native",
+    "Mobile Platform": "iOS",
+    "Browser": "Safari",
+    "Programming Language": "C#",
+    "Unit Frameworks": "N/A",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "N/A",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Firefox",
+    "Programming Language": "C#",
+    "Unit Frameworks": "N/A",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "N/A",
+    "Browser": "Chrome",
+    "Programming Language": "Python",
+    "Unit Frameworks": "PyTest",
+    "Web Frameworks": "Puppeteer",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Chrome",
+    "Programming Language": "C#",
+    "Unit Frameworks": "N/A",
+    "Web Frameworks": "Cypress",
+    "Mobile Frameworks": "Xamarin",
+    "Infrastructure": "N/A"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "iOS",
+    "Browser": "Firefox",
+    "Programming Language": "C#",
+    "Unit Frameworks": "N/A",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "Xamarin",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Firefox",
+    "Programming Language": "JS",
+    "Unit Frameworks": "Mocha",
+    "Web Frameworks": "Puppeteer",
+    "Mobile Frameworks": "Detox",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Mobile Native",
+    "Mobile Platform": "Android",
+    "Browser": "N/A",
+    "Programming Language": "Java",
+    "Unit Frameworks": "JUnit",
+    "Web Frameworks": "Helium",
+    "Mobile Frameworks": "Espresso",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "N/A",
+    "Mobile Platform": "N/A",
+    "Browser": "Chrome",
+    "Programming Language": "JS",
+    "Unit Frameworks": "Jasmine",
+    "Web Frameworks": "Puppeteer",
+    "Mobile Frameworks": "Detox",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "Android",
+    "Browser": "Firefox",
+    "Programming Language": "JS",
+    "Unit Frameworks": "Jest",
+    "Web Frameworks": "WebdriverIO",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Firefox",
+    "Programming Language": "Python",
+    "Unit Frameworks": "Nose2",
+    "Web Frameworks": "CodeceptJS",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Mobile Native",
+    "Mobile Platform": "iOS",
+    "Browser": "N/A",
+    "Programming Language": "C#",
+    "Unit Frameworks": "N/A",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "Xamarin",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Mobile Native",
+    "Mobile Platform": "iOS",
+    "Browser": "Safari",
+    "Programming Language": "Swift",
+    "Unit Frameworks": "N/A",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "XCUITest",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "Android",
+    "Browser": "Firefox",
+    "Programming Language": "Java",
+    "Unit Frameworks": "JUnit",
+    "Web Frameworks": "Selenide",
+    "Mobile Frameworks": "Espresso",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "N/A",
+    "Mobile Platform": "iOS",
+    "Browser": "Firefox",
+    "Programming Language": "JS",
+    "Unit Frameworks": "Jest",
+    "Web Frameworks": "Puppeteer",
+    "Mobile Frameworks": "Detox",
+    "Infrastructure": "Selenoid"
+  },
+  {
+    "Application Type": "Web",
+    "Mobile Platform": "N/A",
+    "Browser": "Chrome",
+    "Programming Language": "JS",
+    "Unit Frameworks": "Mocha",
+    "Web Frameworks": "Serenity",
+    "Mobile Frameworks": "Appium",
+    "Infrastructure": "Selenium Grid"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "Android",
+    "Browser": "Safari",
+    "Programming Language": "C#",
+    "Unit Frameworks": "N/A",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "Xamarin",
+    "Infrastructure": "N/A"
+  },
+  {
+    "Application Type": "Hybrid",
+    "Mobile Platform": "N/A",
+    "Browser": "N/A",
+    "Programming Language": "C#",
+    "Unit Frameworks": "N/A",
+    "Web Frameworks": "N/A",
+    "Mobile Frameworks": "N/A",
+    "Infrastructure": "Selenoid"
+  }
+]
